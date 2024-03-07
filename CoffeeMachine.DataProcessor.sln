@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine.DataProcessor", "CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor.csproj", "{F789CD26-6969-47E4-9975-47B1F324B46B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine.DataProcessorTests", "CoffeeMachine.DataProcessorTests\CoffeeMachine.DataProcessorTests.csproj", "{D83AD302-19E9-4097-ABF9-B80EC43ED911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F789CD26-6969-47E4-9975-47B1F324B46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F789CD26-6969-47E4-9975-47B1F324B46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F789CD26-6969-47E4-9975-47B1F324B46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83AD302-19E9-4097-ABF9-B80EC43ED911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83AD302-19E9-4097-ABF9-B80EC43ED911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83AD302-19E9-4097-ABF9-B80EC43ED911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83AD302-19E9-4097-ABF9-B80EC43ED911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
